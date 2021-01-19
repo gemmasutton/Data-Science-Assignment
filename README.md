@@ -4,8 +4,8 @@ This program is written in Python for elementary analysis of Flourescent cross c
 
 To run:
 
-1. Download python scipts and example data files FCCS_run
+1. Download python scipts and example data files (FCCS_run1.csv, FCCS_run2.csv and FCCS_run3.csv) into a single directory.
 
-2.
+2. Run the script and check the dataframe format. The RUN column indicating each observation number during the experiment should be the first column in the dataframe that is suitable as an index column. 
 
-3.
+3. The data is used to calculate the KD and then summary 
